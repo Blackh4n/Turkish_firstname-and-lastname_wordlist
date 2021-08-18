@@ -30,5 +30,11 @@ Tekil "soyad" miktarı: <b>198.872</b> (v1.0)
 
 md5sum: "134e09cd4a2a4ad8110dd0ac915c3115" (v1.0)
 
+### Kurulum
+
+```
+sudo apt install git-lfs
+git lfs clone https://github.com/Blackh4n/Turkish_firstname-and-lastname_wordlist.git
+```
 
 ###### Blackh4n
